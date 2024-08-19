@@ -1,6 +1,6 @@
 # Shethala Boggarapu
 
-📍 Jersey City, NJ 07307 | ✉️ [shethalaboggarapu@gmail.com](mailto:shethalaboggarapu@gmail.com) | 🔗 [LinkedIn](www.linkedin.com/in/shethala-boggarapu123)
+📍 Jersey City, NJ 07307 | ✉️ [shethalaboggarapu@gmail.com](mailto:shethalaboggarapu@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/shethala-boggarapu123/)
 
 ## 👋 About Me
 Hello! I'm Shethala, a Master’s Graduate from Pace University-New York City Campus specializing in Data Science. With a background in Computer Science Engineering from Telangana, I am passionate about leveraging data to uncover insights, drive business strategies, and solve challenging problems. My technical expertise includes advanced analytics, machine learning, and data visualization, underpinned by a strong foundation in programming and software development.
@@ -39,6 +39,6 @@ Below are some of the projects I've worked on. Each project link includes a deta
 
 ## 📞 Contact
 - **Email:** [shethalaboggarapu@gmail.com](mailto:shethalaboggarapu@gmail.com)
-- **LinkedIn:** [Here](www.linkedin.com/in/shethala-boggarapu123)
+- **LinkedIn:** [Here](https://www.linkedin.com/in/shethala-boggarapu123/)
 
 Feel free to reach out if you have any questions or potential collaborations!
