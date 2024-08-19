@@ -32,10 +32,11 @@ Below are some of the projects I've worked on. Each project link includes a deta
 - **Master of Science (MS) in Data Science,** Pace University, December 2023
 - **Bachelor of Computer Science Engineering,** Telangana, India, July 2021
 
-## 📜 Certifications and badges
+## 📜 Certifications and Badges
 - Accenture North America Data Analytics and Visualization Job Simulation
 - AWS Training and Certification: Generative AI (GEN AI) for Executives
 - Data Analytics: Dashboards vs. Data Stories (Data Storytelling)
+- GlobalShala and Illinois Tech Data Visualization Internship
 - ![GlobalShala and Illinois Tech Data Visualization Badge](badge.png)
 
 
