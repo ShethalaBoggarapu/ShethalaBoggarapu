@@ -25,7 +25,7 @@ Below are some of the projects I've worked on. Each project link includes a deta
 ### [IBM Stock Analysis](https://github.com/ShethalaBoggarapu/IBMStocks)
 - Analyzed historical stock data to develop predictive models correlating stock movements with external events.
 
-### [Heart Failure Prediction]([https://github.com/ShethalaBoggarapu/HeartFailure])
+### [Heart Failure Prediction][([https://github.com/ShethalaBoggarapu/HeartFailure])](https://github.com/ShethalaBoggarapu/Heart_Failure_Prediction.git)
 - Employed machine learning techniques to predict heart failure based on clinical datasets, achieving up to 89% accuracy.
 
 ## 📚 Education
